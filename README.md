@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AchileusXD
-- 👀 I’m a junior developer for Java, Python, JavaScript
+- 👀 I’m a junior developer for Java, Python and JavaScript
 - 🌱 I’m currently learning C, C++, C#
-- 💞️ I’m looking to collaborate on databases
+- 💞️ I’m looking to collaborate on databases and mechatronical systems
 - ⚡ Fun fact: 6 1/2 years of experience in object-oriented programming  
 
 <!---
