@@ -2,9 +2,7 @@
 - 👀 I’m developer for Java, Python, JavaScript
 - 🌱 I’m currently learning C, C++, C#
 - 💞️ I’m looking to collaborate on databases
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 6 1/2 years of experience in object-oriented programming  
 
 <!---
 AchileusXD/AchileusXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
