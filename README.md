@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AchileusXD
-- 👀 I’m developer for Java, Python, JavaScript
+- 👀 I’m a junior developer for Java, Python, JavaScript
 - 🌱 I’m currently learning C, C++, C#
 - 💞️ I’m looking to collaborate on databases
 - ⚡ Fun fact: 6 1/2 years of experience in object-oriented programming  
