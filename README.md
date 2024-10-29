@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AchileusXD
-- 👀 I’m interested in Java, Python, JavaScript
+- 👀 I’m developer for Java, Python, JavaScript
 - 🌱 I’m currently learning C, C++, C#
 - 💞️ I’m looking to collaborate on databases
 - 📫 How to reach me ...
