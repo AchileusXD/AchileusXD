@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AchileusXD
-- 👀 I’m a junior developer for Java, Python and JavaScript
-- 🌱 I’m currently learning C, C++, C#
+- 👀 I’m a junior developer for C and Python
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on databases and mechatronical systems
-- ⚡ Fun fact: 6 1/2 years of experience in object-oriented programming  
+- ⚡ Fun fact: I like coding  
 
 <!---
 AchileusXD/AchileusXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
